@@ -1,9 +1,9 @@
-package com.example.runningappsandroid
+package com.example.runningappsandroid.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import androidx.room.Dao
+import com.example.runningappsandroid.R
 import com.example.runningappsandroid.db.RunDao
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
